@@ -77,10 +77,10 @@ Provide step-by-step instructions on how to set up the project. Include any nece
     adjust the script accordingly.
 
 - **URL Consistency:**
-    The script utilizes a sample URL (`https://summerofcode.withgoogle.com/archive/{year}/organizations`) for testing and development purposes. Ensure that the 
-    structure 
-    of the URLs for organization details remains consistent across different years. If there are changes, update 
-    the script accordingly to target the correct HTML elements.
+    The script utilizes this URL (`https://summerofcode.withgoogle.com/archive/2023/organizations`) for testing 
+    and development purposes. Ensure that the structure of the URLs for organization details remains consistent 
+    across different years. If there are changes, update the script accordingly to target the correct HTML 
+    elements.
 
 - **Class Targeting:**
     The script targets specific HTML elements using class names. If the classes associated with the elements of 
