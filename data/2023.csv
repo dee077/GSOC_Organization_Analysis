@@ -1,0 +1,172 @@
+Organization,Technologies,Topics,Selected_Students
+NumFOCUS,"python, c++, r, julia","data science, graphics, scientific computing, numerical computation",61
+Apache Software Foundation,"c, java, c++","big data, cloud, libraries, other",58
+INCF,"python, javascript, java, c++, gpu","machine learning, data visualization, neuroscience, brain modelling, neuroimage processing",57
+Python Software Foundation,"python, javascript, c++, SBOM","security, visualization, compiler, modeling, Backup",50
+Machine Learning for Science (ML4SCI),"python, machine learning, c++, data analysis, artificial intelligence","machine learning, science and medicine, algorithms, physics, astronomy",43
+CERN-HSF,"python, c/c++, data analysis, artificial intelligence, container orchestration","machine learning, big data, algorithmics, particle physics, Performance Optimisation",37
+LLVM Compiler Infrastructure,"llvm, c++, clang, mlir","compilers, development tools, libraries",33
+SCoRe Lab,"python, java, go, nodejs, reactjs","security, web, machine learning, cloud",33
+The Julia Language,"machine learning, julia, data science, gui, models","math, machine learning, science, data science, graphs",33
+Chromium,"python, javascript, java, c++, git","web, browser, operating-system",31
+CNCF,"prometheus, kubernetes, OpenTelemetry, envoy","cloud, cloud native, observability",30
+Zulip,"python, django, css, typescript, electron","great developer tooling, visual design, teaching quality codebase, team chat, integrations",28
+OWASP Foundation,"python, javascript, java, ZAP, Juice Shop","web, cloud, application security, cybersecurity, DevSecOps",26
+The Linux Foundation,"c, linux, c++, cups, ipp","kernel, automotive, printing, iio, zephyr",24
+UC OSPO,"python, c/c++, visualization, VLSI, ros/gazebo","hardware, data science, reproducibility, storage systems, data management",23
+R project for statistical computing,"c, javascript, c++, r-project, fortran","visualization, machine learning, data science, graphics, statistics",22
+rocket.chat,"javascript, raspberry pi, typescript, node, meteorJS","communications, messaging, group chat, Team Collaboration, Chat platform",22
+Liquid Galaxy project,"python, linux, android, flutter, Google Earth","visualization, networking, maps, cluster, ux",20
+OpenCV,"python, c++, deep learning, ai","robotics, computer vision, ai, deep learning",20
+Oppia Foundation,"python, google app engine, angular, typescript","education, web, community, nonprofit, social impact",19
+PostgreSQL,"c, python, postgresql, javascript, sql","web, database, ui, sql, Benchmark",19
+The Mifos Initiative,"android, java, kotlin, spring, angular","cloud, ai, fintech, financial inclusion, mobile banking",19
+GNOME Foundation,"c, linux, rust, gtk, Flatpak","operating systems, desktop, graphics, open source, apps",18
+International Catrobat Association,"javascript, swift, kotlin, php, flutter","education, visual programming, mobile programming, game engines, creativity tools",18
+CCExtractor Development,"c, linux, rust, flutter","vr, linux, video, subtitles, mobile",17
+Open Chemistry,"python, javascript, opengl, c++, c++14","data science, graphics, scientific visualization, cheminformatics, quantum chemistry",17
+Red Hen Lab,"python, machine learning, computer vision, nlp, data science","data science, media, language, multimodal communication, gesture",17
+Sugar Labs,"python, gtk, typescript, javascipt","education, games, desktop",17
+CGAL Project,"c++, qt","geometry, mesh processing, computation geometry, geometry processing",16
+National Resource for Network Biology (NRNB),"python, javascript, java, xml, r","web application, data science, graphics, scientific computing, network biology",16
+Open Technologies Alliance - GFOSS,"javascript, c/c++, nodejs, python 3, Machine Learning (ML)","web, robotics, open hardware, c++, nodered",16
+Processing Foundation,"python, javascript, android, java, opengl","education, web, graphics, creative coding, design",16
+The Palisadoes Foundation,"mongodb, flutter, graphql, typescript","web, api, database, cloud, mobile",16
+VideoLAN,"c, c++, qt, assembly, video","audio, streaming, video, codecs, media database",16
+Wikimedia Foundation,"python, javascript, html, php, css","semantic web, wikipedia, wikimedia, mediawiki, i18n",16
+Global Alliance for Genomics and Health,"python, postgresql, java, react, rust","web, genomics, bioinformatics, genetics, standards",15
+AOSSIE,"python, javascript, machine learning, scala, Blockchain","machine learning, electronic voting, natural language processing, social science",14
+freifunk,"c, python, javascript, openwrt, gnu/linux","embedded systems, open hardware, routing, wireless networks, federation",14
+MetaBrainz Foundation Inc,"python, react, perl, postgres, spark","open data, music, books, Music recommendation, music social network",14
+OpenAstronomy,"c, python, julia","image processing, astronomy, solar physics, high energy astrophysics",14
+OpenMRS,"mysql, javascript, java, reactjs, fhir","platform, frontend, Electronic Medical Record System, QA automation",14
+"Department of Biomedical Informatics, Emory University","python, javascript, java, workflows, dicom","science and medicine, data integration, workflows, radiology, distributed system",13
+Free and Open Source Silicon Foundation,"verilog, risc-v, compiler, web development","hardware, debug, web services, simulation, electronic design tools",13
+KDE Community,"c++, qt, qml, data structures","education, science, applications, desktop environment",13
+OSGeo (Open Source Geospatial Foundation),"c, python, javascript, java, c++","open science, gis, citizen science, geolocation, mapping",13
+The FreeBSD Project,"c, llvm, assembly, make, POSIX shell","virtualization, operating system, Embedded System",13
+BRL-CAD,"python, c/c++, opengl, opencl, scripting","geometry, 2d/3d graphics, ray tracing, high-performance computing, conversion standards",12
+openSUSE Project,"python, ruby, perl, rust, reactjs javascript","AIML, operating system developer tools, containers kubernetes, Security Cryptography, licensing & software quality QA",12
+The Honeynet Project,"python, javascript, django, go, docker","honeypots, malware analysis, Threat Intelligence",12
+Eclipse Foundation,"java, che, deeplearning, eclipsejavaide, jakartaee","robotics, automotive, tools, cloud native java, iot & edge",11
+FOSSology,"python, postgresql, c/c++, go, php","automation, spdx, license compliance, nlp, compliance automation",11
+Genome Assembly and Annotation,"python, mysql, docker, pytorch, nextflow","machine learning, genomics, big data, cloud, hpc",11
+MariaDB,"python, javascript, c/c++, perl, databases","Database Engines, SQL Features",11
+MIT App Inventor,"javascript, java, gwt, swift","education, development tools, android, ios",11
+SageMath,"python, cython","mathematics, education, research",11
+DBpedia,"python, javascript, java, scala, rdf","natural language processing, semantic web, linked data, knowledge graph, data extraction",10
+JdeRobot,"python, ros, gazebo, opencv, tensorflow","education, artificial intelligence, robotics, computer vision, developer tools",10
+QEMU,"c, python, linux, rust","systems programming, kernel, compiler, emulator, hypervisor",10
+Scala Center,"scala, scala.js, scala native","education, compilers, tooling",10
+TARDIS RT Collaboration,"python, numba, numpy, jupyter, pandas","visualization, big data, simulation, astrophysics",10
+GeomScale,"python, c++, r, jupyter, github-actions","mathematics, data science, computational biology, computational geometry, statistics",9
+GNU Compiler Collection (GCC),"c/c++, gnu make, gnu autotools","compilers, developer tools, toolchain, openmp, link time optimization",9
+LibreHealth,"python, javascript, android, java, dart/flutter","web, deep learning, hfoss, radiology, mobile apps",9
+MetaCall,"python, c++, rust, nodejs, docker","cloud, polyglot, faas, languages, ffi",9
+PEcAn Project,"r, docker, api, geospatial","data science, ecosystem models, scientific visualization, climate science, Ecological Forecasting,",9
+Plone Foundation,"python, javascript, react","web, cms",9
+Ste||ar group,"c++, hpc","library, optimization, parallel algorithms, hpx, application",9
+52°North Spatial Information Research GmbH,"javascript, android, java, web services, ogc standards","citizen science, spatial information infrastructures, open standards, data analytics, Geoinformation",8
+ArduPilot,"python, lua, c++, pixhawk","robotics, Drone, autonomous vehicle, UGV, unmanned vehicle",8
+BeagleBoard.org,"linux, fpga, risc-v, dsp, Zephyr RTOS","robotics, iot, ai, software defined radio, Personal Server",8
+Blender Foundation,"c, python, opengl, c++, vulkan","games, graphics, 3d, rendering, animation",8
+cBioPortal for Cancer Genomics,"mysql, javascript, java, react, typescript","genomics, cancer, bioinformatics, big data, precision medicine",8
+CircuitVerse.org,"javascript, rails, canvas","education, web, simulation, pedagogy, digital logic design",8
+Fortran-lang,"python, c++, fortran","compilers, programming languages, build systems, libraries, Fortran",8
+Jenkins,"javascript, java, go, docker, kubernetes","developer tools, automation, continuous integration, continuous delivery, devops",8
+OpenStreetMap,"python, javascript, java, c++, sql","databases, routing, gis, ui, geocoding",8
+OpenVINO Toolkit,"python, c++, x86","machine learning, ai, deep learning, neural network, inference",8
+Postman,"javascript, api, openapi, AsyncAPI, JSON Schema","testing, api, automation, documentation, data",8
+Society for Arts and Technology (SAT),"python, javascript, opengl, c++, supercollider","web, graphics, cloud, multimedia, accessibility",8
+Swift,"c++, cmake, swift","compilers, cross-platform, Packages, Server development, Standard Libraries",8
+SymPy,"python, numpy, jupyter","mathematics, physics, symbolic mathematics",8
+X.Org Foundation,"opengl, vulkan, x11, wayland, DRM","graphics, kernel, drivers",8
+AboutCode,"python, javascript, Django+PostgreSQL, C/Rust/Go","dependencies, vulnerabilities, SoftwareCompositionAnalysis, License, SBOM",7
+CHIPS Alliance,"fpga, chisel, risc-v, systemverilog, ASIC","soc, IP cores, ASIC design, HDL, chiplets",7
+Drupal Association,"mysql, javascript, html, php, symfony","web, cloud, DXP, Massive community, Inclusive",7
+Gentoo Foundation,"c, python, shell, linux, bash","operating systems, security, embedded, init, package",7
+GNU Project,"c, c++, gcc, autotools","tools, toolchain, command line, OS, binary tools",7
+Internet Health Report,"python, javascript, apache kafka, VueJS","networking, routing, communication, internet, data analytics",7
+LibreOffice,"python, java, c++","office suite, desktop application, end user application",7
+mlpack,"c++, C++ template metaprogramming","machine learning, embedded, ai, deep learning, Neural networks",7
+RTEMS Project,"python, c/c++, assembly, posix","kernel, embedded, real-time, multicore, rtos",7
+Ruby,"c, java, ruby on rails, ruby, rubygems","security, web, cloud, server, application",7
+ScummVM,"opengl, lua, c++, assembly, sdl","games, game engines, software preservation, software archeology",7
+The NetBSD Foundation,"c, shell script, make, unix, bsd","kernel, packaging, userland, unix, bsd",7
+The Tor Project,"c, python, web, rust","security, privacy, anti-censorship, Human Rights, Surveillance",7
+Unikraft,"c, xen, golang, kvm, assembly language","virtualization, cloud, software reuse, software configurability",7
+GitLab,"javascript, ruby on rails, go, ruby, vue","cloud, devops",6
+Haiku,"c++, posix, unix","desktop, kernel, network, media, gui",6
+Learning Equality,"python, javascript, django, vue.js","education, distributed databases, offline, learning",6
+Mayor's Office of New Urban Mechanics,"python, javascript, ruby, tensorflow","web, machine learning, gis, civic tech, analytics",6
+Pharo Consortium,"git, smalltalk, roassal, pharo, SUnit","compilers, machine learning, programming languages, virtual machines, Modelling",6
+Submitty,"python, postgresql, javascript, c++, php","education, visualization, web, privacy/security, communication",6
+TensorFlow,"machine learning, tensorflow, ai, Jax, keras","education, research, machine learning, on-device machine learning",6
+Apertium,"python, javascript, c++, xml, bash","natural language processing, machine translation, language technology, less-resources languages",5
+CRIU,"c, python, linux, go","cloud, containers, Checkpoint/Restore",5
+Dart,"flutter, dart","programming languages, mobile apps",5
+FFmpeg,"c, git, asm","audio, video, subtitles, multimedia",5
+FreeType,"c, autotools, meson","library, rendering, fonts, opentype, truetype",5
+GNU Octave,"c++, hg","mathematics, scientific computing, numerical computation, numerical methods, matlab",5
+Inkscape,"python, c++, svg","web, graphics, design",5
+Internet Archive,"python, javascript, go, elasticsearch, hadoop","library, media, archiving",5
+libcamera,"c/c++, linux kernel, qt5, gstreamer, v4l2","camera, image prcessing",5
+Mathesar,"python, postgresql, javascript, django, svelte","databases, web, data, nonprofit, self-hosted",5
+Open Robotics,"ros, gazebo, ignition, Open-RMF","robotics, simulation",5
+Organic Maps,"android, java, c++, ios, OpenStreetMap","privacy, maps, navigation, mobile, offline",5
+SPDX,"python, java, json, go, rdf","compliance, licensing, data, vulnerabilities",5
+The ENIGMA Team,"opengl, c++, qt5","graphics, game development, compiler, programming, game design",5
+The ns-3 Network Simulator Project,"python, django, c++","computer networking, network simulation",5
+Wagtail,"python, javascript, django","web, accessibility, cms",5
+Ceph,"python, javascript, c++","distributed systems, Software-Defined-Storage",4
+FLARE,"python, ida-pro, Ghidra","emulation, disassembly, decompilation, malware-analysis, reverse-engineering",4
+FreeCAD,"python, c++, qt, OpenCASCADE, OpenInventor","engineering, graphics, cad, architecture, CAM",4
+Git,"shell script, git, c language","version control, dvcs",4
+GNU Image Manipulation Program,"c, GEGL","graphics, design, photography, illustration",4
+gprMax,"python, cuda, openmp, mpi, opencl","science, engineering, geophysics, electromagnetics, ground penetrating radar",4
+Kotlin Foundation,"gradle, kotlin, jvm, Parsers & Compilers, Multiplatform","compilers, programming languages, software development, libraries, Programming & Build Tools",4
+MDAnalysis,"python, cython, c/c++","science, computational-chemistry, high-performance-computing, molecular-simulation, soft-matter-physics",4
+Micro Electronics Research Lab - UITU,"RISCV, Processor, Hardware, systemonchip, memory","iot, embedded, Processor, System on Chip, RISC-V",4
+MoveIt,"ros, c++","robotics, motion planning, trajectory generation, kinematics",4
+omegaUp,"python, mysql, php, typescript, vue.js","education, web, cloud, edtech, UX/UI",4
+Software and Computational Systems Lab at LMU Munich,"python, java","software verification, benchmarking, program analysis, formal methods, SAT & SMT solving",4
+Synfig,"python, c++, gtk, gtkmm","2d/3d graphics, animation, vector graphics",4
+The JPF team,"android, java, distributed systems, jvm, smt solvers","model checking, symbolic execution, verification of concurrent systems, program analysis, test input generation",4
+AFLplusplus,"llvm, rust, fuzzing, qemu","fuzzing, ci",3
+checkstyle,"java, antlr","static code analysis, code review tool, coding standards, coding conventions",3
+Django Software Foundation,"python, django","web, python",3
+GCP Scanner,"python, google cloud","security, automation, scanning, google cloud",3
+GRAME,"c, python, javascript, c++, typescript","audio, compiler, digital signal processing, function programming language",3
+Ivy (lets-unify.ai),"python, cython, tensorflow, pytorch, Jax","machine learning, artificial intelligence, computation graph, code conversion, unified API",3
+libssh,"c, ci, ssh","security, cryptography",3
+MuseScore,"c++, qt, qml, cmake","music, midi, musicxml, sheet music, music notation",3
+Open Genome Informatics,"python, react, r-project, graph, angular","genomics, bioinformatics, cloud, biology, data discovery",3
+OpenWISP,"python, javascript, django, lua, openwrt","networking, network management system, wifi, vpn, sdn",3
+Purr Data,"c, javascript, html5, Emscripten","web, graphics, audio, realtime",3
+Rizin,"c, python, go, c++, qt","reverse engineering, computer security, debugging, emulation, disassembly",3
+XMPP Standards Foundation,"vala, xmpp, swift, dart, Objective C","instant messaging, chat, WebRTC, Jingle, Real-Time Communication",3
+caMicroscope,"python, javascript, mongodb, opencv, tensorflow","data visualization, image analysis, AI/ML, microscopy, dicom pathology",2
+Carbon Language,"llvm, c++, clang, Bison","programming languages, c++",2
+CloudCV,"python, django, docker, angularjs, aws","machine learning, artificial intelligence, computer vision, deep learning, AI/ML",2
+Cockpit Project,"python, javascript, react","operating systems, web, linux",2
+coreboot,"c, assembly, arm, x86","hardware, drivers, firmware, boot loader, BIOS",2
+GNU Radio,"python, c++, qt, simd","real-time, dsp, communications engineering, cybersecurity, Software-Defined Radio",2
+GnuTLS,"c, Cryptography, TLS","security, cryptography, TLS, DTLS",2
+Invesalius,"python, cython, numpy, dicom, Vtk","ehealth, medical imaging, 3D Reconstruction, 3d printing, Neuronavigation",2
+Keploy,"java, golang, node, MERN, epbf","API Testing, No code platform, Dev Tool, Functional Testing, Mock and Stubs Generation",2
+Kiwix,"python, perl, c++, nodejs, kotlin","offline, browser, compression",2
+libvirt,"kvm, hypervisor, qemu, lxc","virtualization, library",2
+Mantis,"java, Rxjava, Akka, Netty","cloud, distributed systems, Operational Analytics",2
+Metasploit,"c, python, postgresql, ruby, assembly","security, penetration testing, offensive security, exploitation",2
+Mixxx,"javascript, c++, qt","music, dj, streaming",2
+MZmine and MS-DIAL,"java, c#, javafx","data science, graphics, cheminformatics, mass spectrometry, feature detection",2
+Pitivi,"c, python, gtk, gstreamer","video processing, filmmaking, video editing",2
+Qdrant,"python, javascript, rust","databases, machine learning, Search Engines",2
+Scalable Parallel Computing Laboratory,"python, c++, mpi, aws, Serverless","programming languages, high-performance computing, parallel computing, Serverless Computing, faas",2
+SQLancer,"java, sql","fuzzing, Automated Testing, Logic bugs, Database systems",2
+XWiki,"javascript, java, html5, css3, velocity","web development, wiki, platform, web applications, structured data",2
+Creative Commons,"python, javascript, php, css, wordpress","web, nonprofit, copyleft, creative commons, legal",1
+Jina AI,"python, machine learning, microservices, data science, Multimodel AI","cloud native, neural search, generative AI, Python MLOps Framework, Mulitmodel Data",1
+KubeVirt,"golang, grpc","virtualization, containers, kubernetes",1
+strace,"c, shell, make, autotools, gawk","debugging, tracing, diagnostic",1
+"Stratosphere Laboratory, Czech Technical University in Prague","python, javascript, redis, flask, docker","machine learning, network security, Security Defense",1
