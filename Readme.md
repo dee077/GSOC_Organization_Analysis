@@ -1,4 +1,4 @@
-# Google Summer of Code (GSoC) Analysis
+# Google Summer of Code (GSoC) Organization Analysis
 
 The Google Summer of Code is a prestigious program that connects students with open-source organizations, offering them the opportunity to contribute to real-world projects during the summer. Selecting the right organization is crucial for maximizing the chances of being accepted into the program.
 
@@ -13,13 +13,10 @@ Utilizing web scraping tools such as Selenium for automation and BeautifulSoup f
 
 ## Features
 
-- Scrape and analyze GSoC data from the official archive.
-- Provide statistics on the number of selected students for each organization.
-- Present information on the technologies and topics each organization focuses on.
 - **Web Scraping with Selenium:** Automates the data extraction process from the GSoC official website.
-- HTML Parsing with BeautifulSoup: Parses the HTML content for structured data extraction.
-- Statistics on Selected Students: Provides insights into the number of selected students for each organization.
-- Focus on Technologies and Topics: Presents information on the technologies and topics each organization focuses on.
+- **HTML Parsing with BeautifulSoup:** Parses the HTML content for structured data extraction.
+- **Statistics on Selected Students:** Provides insights into the number of selected students for each organization.
+- **Focus on Technologies and Topics:** Presents information on the technologies and topics each organization focuses on.
 
 ## Setup
 
@@ -58,9 +55,38 @@ Provide step-by-step instructions on how to set up the project. Include any nece
     ```
     After running this script, the application will scrape and analyze GSoC data. Check the generated CSV files in 
     the `data/` directory for detailed information on each organization.
+
+    The script allows scraping data for a specific year. To scrape data for a particular year, modify the `year` 
+    variable in the `main.py` script.
     
     You can see the list of orginization along with the number of selected students in your terminal as well.
     ![terminal_output](images/ss.png)
 
-## Additional Details
+## Important Notes
+
+- **Adjusting the Year:**
+    To extract data for a different year, modify the `year` variable in the `main.py` script. The URL structure 
+    and class targeting should remain constant for the scraping process to work seamlessly.
+
+
+- **URL Structure Stability:**
+    The script relies on the structure of the Google Summer of Code (GSoC) official website's HTML elements. While 
+    updates to the website might occur, the stability of the script heavily depends on the persistence of the 
+    class 
+    names and structure used for data extraction. If the website undergoes significant changes, you may need to 
+    adjust the script accordingly.
+
+- **URL Consistency:**
+    The script utilizes a sample URL (`sample_url`) for testing and development purposes. Ensure that the 
+    structure 
+    of the URLs for organization details remains consistent across different years. If there are changes, update 
+    the script accordingly to target the correct HTML elements.
+
+- **Class Targeting:**
+    The script targets specific HTML elements using class names. If the classes associated with the elements of 
+    interest change, you will need to inspect the HTML structure and update the corresponding class names in the 
+    script (`main.py`).
+
+    By keeping these considerations in mind, you can ensure the accurate functioning of the script across 
+    different years.
 
