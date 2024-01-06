@@ -54,12 +54,13 @@ Provide step-by-step instructions on how to set up the project. Include any nece
     python main.py
     ```
     After running this script, the application will scrape and analyze GSoC data. Check the generated CSV files in 
-    the `data/` directory for detailed information on each organization.
+    the `data/` directory for detailed information on each organization in the decreasing order of selected 
+    students.
 
     The script allows scraping data for a specific year. To scrape data for a particular year, modify the `year` 
     variable in the `main.py` script.
     
-    You can see the list of orginization along with the number of selected students in your terminal as well.
+    You can see the list of orginizations along with the number of selected students in your terminal as well.
     ![terminal_output](images/ss.png)
 
 ## Important Notes
