@@ -61,6 +61,7 @@ Provide step-by-step instructions on how to set up the project. Include any nece
     variable in the `main.py` script.
     
     You can see the list of orginizations along with the number of selected students in your terminal as well.
+    
     ![terminal_output](images/ss.png)
 
 ## Important Notes
