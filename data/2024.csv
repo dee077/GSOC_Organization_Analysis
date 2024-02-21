@@ -1,0 +1,196 @@
+Organization,Technologies,Topics,Selected_Students
+ArduPilot,"python, lua, c++, pixhawk","robotics, Drone, autonomous vehicle, UGV, unmanned vehicle",Na
+Plone Foundation,"python, javascript, react","web, cms",Na
+LibreCube Initiative,"python, rest api, micropython","automation, space, Communication Protocols, Rover",Na
+MetaBrainz Foundation Inc,"python, machine learning, perl, postgres, spark","machine learning, open data, music, books, music social network",Na
+Internet Health Report,"python, javascript, apache kafka, VueJS","networking, routing, communication, internet, data analytics",Na
+GeomScale,"python, c++, r, jupyter, github-actions","mathematics, data science, computational biology, computational geometry, statistics",Na
+GNU Project,"c, c++, gcc, autotools","tools, toolchain, command line, OS, binary tools",Na
+Invesalius,"python, cython, numpy, dicom, Vtk","ehealth, medical imaging, 3D Reconstruction, 3d printing, Neuronavigation",Na
+Internet Archive,"python, javascript, go, elasticsearch, hadoop","library, media, archiving",Na
+JSON Schema,"python, javascript, typescript, .net, JSON Schema","web, apis, standards, data validation, developer tooling",Na
+sktime,"python, github, sphinx, scikit-learn","data science, ai, time series, toolbox frameworks",Na
+cBioPortal for Cancer Genomics,"mysql, javascript, java, react, typescript","genomics, cancer, bioinformatics, big data, precision medicine",Na
+NixOS Foundation,"git, nix","declarative, reproducible, InfrastrucutreAsCode",Na
+GNU Radio,"python, c++, qt, simd","real-time, dsp, communications engineering, cybersecurity, Software-Defined Radio",Na
+Waycrate,"c, c++, rust, wayland, Zig","graphics, Wayland, ScreenCapture, Wayland Compositor, Desktop Portals",Na
+AsyncAPI,"javascript, java, go, typescript, RAML","web, api, cloud, Architectures",Na
+Scala Center,"scala, scala.js, scala native","education, compilers, tooling",Na
+The FreeBSD Project,"c, llvm, assembly, make, POSIX shell","virtualization, operating system, Embedded System",Na
+VideoLAN,"c, c++, qt, assembly, video","audio, streaming, video, codecs, media database",Na
+API Dash,"flutter, api, nosql, dart","testing, api, developer tools, automation, app development",Na
+FreeType,"c, autotools, meson","library, rendering, fonts, opentype, truetype",Na
+City of Boston,"python, javascript","web, machine learning, gis, civic tech, analytics",Na
+Synfig,"python, c++, gtk, gtkmm","2d/3d graphics, animation, vector graphics",Na
+Open Chemistry,"python, javascript, opengl, c++, c++14","data science, graphics, scientific visualization, cheminformatics, quantum chemistry",Na
+Open Science Initiative for Perfusion Imaging,"python, github","data visualization, data analysis, medical imaging, reproducible science",Na
+Unikraft,"c, xen, golang, kvm, assembly language","virtualization, cloud, software reuse, software configurability",Na
+The P4 Language Consortium,"c++, cmake, bazel, grpc, protobuf","networking, programming language, compiler, formal verification, programmable data plane",Na
+CHIPS Alliance,"fpga, chisel, risc-v, systemverilog, ASIC","soc, IP cores, ASIC design, HDL, chiplets",Na
+mlpack,"c++, C++ template metaprogramming","machine learning, embedded, ai, deep learning, Neural networks",Na
+MetaCall,"python, c++, rust, nodejs, docker","cloud, polyglot, faas, languages, ffi",Na
+Debian,"c, python, java, ruby, perl","web, robotics, graphics, cloud, SDR",Na
+INCF,"python, javascript, java, c++, gpu","machine learning, data visualization, neuroscience, brain modelling, neuroimage processing",Na
+Learning Equality,"python, javascript, django, vue.js","education, distributed databases, offline, learning",Na
+Apertium,"python, javascript, c++, xml, bash","natural language processing, machine translation, language technology, less-resources languages",Na
+DBpedia,"python, javascript, java, scala, rdf","semantic web, linked data, knowledge graph, data extraction, largelanguagemodel",Na
+"Department of Biomedical Informatics, Emory University","python, javascript, java, dicom, Colab","science and medicine, data integration, workflows, radiology, ML/AL",Na
+caMicroscope,"python, javascript, mongodb, opencv, node","data visualization, image analysis, AI/ML, microscopy, dicom pathology",Na
+Alaska,"python, mysql, java, matlab, dicom","deep learning, neuroscience, radiology, heathcare, Polar Science",Na
+Ste||ar group,"c++, hpc","library, optimization, parallel algorithms, hpx, application",Na
+HumanAI,"python, machine learning, c++, data analysis, artificial intelligence","machine learning, artificial intelligence, ai, Arts, Humanities",Na
+KolibriOS Project Team,"c, assembly, asm, fasm, pci","kernel, operating system, drivers, OS, low-level",Na
+OSGeo (Open Source Geospatial Foundation),"c, python, javascript, java, c++","open science, gis, citizen science, geolocation, mapping",Na
+libssh,"c, ci, ssh","security, cryptography",Na
+Swift,"c++, cmake, swift","compilers, cross-platform, Packages, Server development, Standard Libraries",Na
+Ceph,"python, javascript, c++","distributed systems, Software-Defined-Storage",Na
+Free and Open Source Silicon Foundation,"verilog, risc-v, compiler, web development","hardware, debug, web services, simulation, electronic design tools",Na
+Wikimedia Foundation,"javascript, html, php, css, Phyton","semantic web, wikipedia, wikimedia, mediawiki, i18n",Na
+MariaDB,"python, javascript, c/c++, perl, databases","Database Engines, SQL Features",Na
+Sugar Labs,"python, gtk, typescript, javascipt","education, games, desktop",Na
+The NetBSD Foundation,"c, shell script, make, unix, bsd","kernel, packaging, userland, unix, bsd",Na
+AboutCode,"python, javascript, Django+PostgreSQL, C/Rust/Go","dependencies, vulnerabilities, SoftwareCompositionAnalysis, License, SBOM",Na
+CNCF,"prometheus, kubernetes, OpenTelemetry, envoy","cloud, cloud native, observability",Na
+Open HealthCare Network,"python, django, react, typescript, NextJs","electronic medical records, Digital Public Goods, Pandemic Response and Management, Telemedicine and Remote Care, AI in Health",Na
+NumFOCUS,"python, c++, r, julia","data science, graphics, scientific computing, numerical computation",Na
+SymPy,"python, numpy, jupyter","mathematics, physics, symbolic mathematics",Na
+Polypheny,"javascript, java, sql, angular","database, big data, cloud, polystore, nosql",Na
+Haiku,"c++, posix, unix","desktop, kernel, network, media, gui",Na
+XMPP Standards Foundation,"gtk, vala, xmpp, swift, Objective C","instant messaging, chat, WebRTC, Jingle, Real-Time Communication",Na
+Submitty,"python, postgresql, javascript, c++, php","education, visualization, web, privacy/security, communication",Na
+The Honeynet Project,"python, javascript, django, go, docker","honeypots, malware analysis, Threat Intelligence",Na
+Zulip,"python, django, flutter, css, typescript","great developer tooling, visual design, teaching quality codebase, team chat, integrations",Na
+GRAME,"c, python, javascript, c++, typescript","audio, compiler, digital signal processing, function programming language",Na
+Data for the Common Good,"python, javascript, kubernetes, reactjs, terraform","web, health, data, infrastructure, software",Na
+IOOS,"python, javascript, java, ocean science, Scientific Python","open data, data science, data management, Oceanography",Na
+National Resource for Network Biology (NRNB),"python, javascript, java, html, r","web application, data science, graphics, scientific computing, network biology",Na
+OpenMRS,"mysql, javascript, java, reactjs, fhir","platform, frontend, Electronic Medical Record System, QA automation",Na
+Kiwix,"python, c++, nodejs, kotlin, vue.js","offline, browser, compression",Na
+52°North Spatial Information Research GmbH,"javascript, android, java, web services, ogc standards","citizen science, spatial information infrastructures, open standards, data analytics, Geoinformation",Na
+Organic Maps,"android, java, c++, ios, OpenStreetMap","privacy, maps, navigation, mobile, offline",Na
+QC-Devs,"python, github, c++, julia, jupyter","data science, scientific visualization, quantum chemistry, Computational Science, numerical algorithms",Na
+Accord Project,"python, javascript, react, rust, artificial intelligence","natural language processing, data modeling, legal technology, contract management, document assembly",Na
+Mautic,"mysql, php, symfony","DXP, Marketing, Marketing Automation, Digital Marketing, Digital Experience Platform",Na
+GNSS-SDR,"c, c++, sdr","gnss, geolocation, navigation, software defined radio, communications",Na
+BeagleBoard.org,"linux, fpga, risc-v, dsp, Zephyr RTOS","robotics, iot, ai, software defined radio, Personal Server",Na
+Project Mesa,"python, javascript","Agent Based Models, Generative Science",Na
+AnkiDroid,"android, rust, kotlin, mobile","education, mobile, android, user generated content, Flashcards",Na
+checkstyle,"java, antlr","static code analysis, code review tool, coding standards, coding conventions",Na
+CircuitVerse.org,"javascript, rails, canvas","education, web, simulation, pedagogy, digital logic design",Na
+FFmpeg,"c, git, asm","audio, video, subtitles, multimedia",Na
+Creative Commons,"python, javascript, php, css, wordpress","web, nonprofit, copyleft, creative commons, legal",Na
+Kubeflow,"python, go, kubernetes, typescript, YAML","machine learning, kubernetes, AI/ML, generative AI",Na
+CCExtractor Development,"c, linux, rust, flutter","vr, linux, video, subtitles, mobile",Na
+Open Technologies Alliance - GFOSS,"javascript, c/c++, nodejs, python 3, Machine Learning (ML)","web, robotics, open hardware, c++, Artificial Inteligence",Na
+LibreOffice,"python, java, c++","office suite, desktop application, end user application",Na
+Django Software Foundation,"python, django","web, python",Na
+Python Software Foundation,"python, javascript, c++, SBOM","security, visualization, compiler, modeling, Backup",Na
+freifunk,"c, python, javascript, openwrt, gnu/linux","embedded systems, open hardware, routing, wireless networks, federation",Na
+MIT App Inventor,"javascript, java, gwt, swift","education, development tools, android, ios",Na
+Prometheus-Operator,"prometheus, go, kubernetes, kubernetes operators","monitoring, cloud, observability, Kubernetes Operator",Na
+Apache Software Foundation,"c, java, c++","big data, cloud, libraries, other",Na
+LabLua,"linux, lua, céu, pallene","compilers, scripting languages, kernel scripting, statically-typed languages",Na
+Joplin,"javascript, react, typescript, electron, React-Native","database, search, synchronisation, note-taking, office",Na
+Scalable Parallel Computing Laboratory,"python, c++, mpi, aws, Serverless","programming languages, high-performance computing, parallel computing, Serverless Computing, faas",Na
+FOSSology,"python, postgresql, c/c++, go, php","automation, spdx, license compliance, nlp, compliance automation",Na
+SageMath,"python, cython","mathematics, education, research",Na
+Uramaki LAB,"python, javascript, html, css, Firebase","Usability, User Evaluation, Heuristic Evaluation, Eye Tracking, Sentimental Analysis",Na
+Liquid Galaxy project,"linux, android, nodejs, flutter, Google Earth","visualization, artificial intelligence, networking, maps, ux",Na
+RTEMS Project,"python, c/c++, assembly, posix","kernel, embedded, real-time, multicore, rtos",Na
+Drupal Association,"mysql, javascript, html, php, symfony","web, cloud, DXP, Massive community, Inclusive",Na
+OpenWISP,"python, javascript, django, lua, openwrt","networking, network management system, wifi, vpn, sdn",Na
+Micro Electronics Research Lab - UITU,"RISCV, Processor, Hardware, systemonchip, memory","iot, embedded, Processor, System on Chip, RISC-V",Na
+Git,"shell script, git, c language","version control, dvcs",Na
+webpack,"javascript, typescript, node","web development, javascript, webassembly, Node.js, webpack",Na
+GNU Image Manipulation Program,"c, GEGL","graphics, design, photography, illustration",Na
+International Catrobat Association,"javascript, swift, kotlin, php, flutter","education, visual programming, mobile programming, game engines, creativity tools",Na
+AOSSIE,"python, javascript, android, flutter, Blockchain","web, machine learning, natural language processing, mobile, backend",Na
+OpenELIS Global,"postgresql, javascript, java, react, spring","Health Care, Laboratory Information System",Na
+CVAT,"python, django, react, kubernetes, typescript","machine learning, computer vision, ai, deep learning, data",Na
+Mixxx,"javascript, c++, qt","music, dj, streaming",Na
+Dart,"flutter, dart","programming languages, mobile apps",Na
+GNU Octave,"c++, hg","mathematics, scientific computing, numerical computation, numerical methods, matlab",Na
+BRL-CAD,"python, c/c++, opengl, opencl, scripting","geometry, 2d/3d graphics, ray tracing, high-performance computing, deep neural net rendering",Na
+The Linux Foundation,"c, linux, c++, cups, ipp","kernel, automotive, printing, iio, zephyr",Na
+LLVM Compiler Infrastructure,"llvm, c++, clang, mlir","compilers, development tools, libraries",Na
+Fortran-lang,"python, c++, fortran","compilers, programming languages, build systems, libraries, Fortran",Na
+Graphite,"rust, typescript, ai, webgpu, stable diffusion","graphics, computational geometry, rendering, design, animation",Na
+MDAnalysis,"python, cython, c/c++","science, computational-chemistry, high-performance-computing, molecular-simulation, soft-matter-physics",Na
+Wellcome Sanger Tree of Life,"python, opengl, rust, groovy, nextflow","machine learning, genomics, bioinformatics, genome assembly, genome analysis",Na
+The ENIGMA Team,"opengl, c++, qt5, recursive-descent","graphics, game development, compiler, programming, game design",Na
+The JPF team,"android, java, distributed systems, jvm","model checking, symbolic execution, verification of concurrent systems, program analysis, test input generation",Na
+Purr Data,"c, javascript, html5, Emscripten","web, graphics, audio, realtime",Na
+libvirt,"kvm, hypervisor, qemu, lxc","virtualization, library",Na
+Blender Foundation,"c, python, opengl, c++, vulkan","games, graphics, 3d, rendering, animation",Na
+PEcAn Project,"r, docker, api, geospatial","data science, ecosystem models, scientific visualization, climate science, Ecological Forecasting,",Na
+GNOME Foundation,"c, linux, rust, gtk, Flatpak","operating systems, desktop, graphics, open source, apps",Na
+OpenCV,"python, c++, deep learning, ai","robotics, computer vision, ai, deep learning",Na
+Global Alliance for Genomics and Health,"python, postgresql, java, react, rust","web, genomics, bioinformatics, genetics, standards",Na
+Zendalona,"python, javascript, android, gtk, qt","web, gui, accessibility, braille, gaming",Na
+stdlib,"c, javascript, node.js, typescript","mathematics, web, scientific computing, numerical computing, statistics",Na
+OpenVINO Toolkit,"python, c++, x86","ai, deep learning, neural network, inference, gen ai",Na
+KubeVirt,"golang, grpc","virtualization, containers, kubernetes",Na
+Electron,"javascript, node.js, c++, typescript, Chromium","desktop, framework, javascript",Na
+rocket.chat,"javascript, typescript, node, LLM, generative ai","communications, messaging, group chat, Team Collaboration, Chat platform",Na
+Inkscape,"python, c++, svg","web, graphics, design",Na
+MoveIt,"python, ros, c++, rust","robotics, motion planning, trajectory generation, kinematics",Na
+"Stratosphere Laboratory, Czech Technical University in Prague","python, redis, docker, textual","machine learning, network security, civil society, Security Defense",Na
+FOSSASIA,"python, javascript, android","web, android",Na
+UC OSPO,"python, c/c++, machine learning, verilog, VLSI","education, hardware, storage, AI/ML, I/O",Na
+The Mifos Initiative,"android, java, kotlin, spring, angular","artificial intelligence, cloud, fintech, financial inclusion, mobile banking",Na
+FreeCAD,"python, c++, qt, OpenCASCADE, OpenInventor","engineering, graphics, cad, architecture, CAM",Na
+Stichting SU2,"python, c++","aerodynamics, Computational Fluid Dynamics, Multi-Disciplinary Optimization, Adjoint Design Optimization, Fluid Dynamics",Na
+The ns-3 Network Simulator Project,"python, django, c++","computer networking, network simulation",Na
+Chromium,"python, javascript, java, c++, git","web, browser, operating-system",Na
+The Rust Foundation,"python, rust","compilers, programming languages",Na
+AFLplusplus,"llvm, rust, fuzzing, qemu","fuzzing, ci",Na
+Wagtail,"python, javascript, django","web, accessibility, cms",Na
+Rizin,"c, python, go, c++, qt","reverse engineering, computer security, debugging, emulation, disassembly",Na
+Open Chromosome Collective,"python, numpy, scikit-learn, pandas, HDF5","machine learning, genomics, bioinformatics, data science, python",Na
+omegaUp,"python, mysql, php, typescript, vue.js","education, web, cloud, edtech, UX/UI",Na
+C2SI,"python, java, go, nodejs, tensorflow","security, cloud, ai, mobile, software",Na
+Oppia Foundation,"python, google app engine, angular, typescript, Apache Beam","education, web, ai, nonprofit, social impact",Na
+Jitsi,"javascript, java, react, kotlin, webrtc","video, multimedia, video conferencing, WebRTC",Na
+Eclipse Foundation,"java, rtos, deeplearning, eclipsejavaide, jakartaee","robotics, automotive, tools, cloud native java, iot & edge",Na
+KDE Community,"c++, qt, qml, data structures","education, science, applications, desktop environment",Na
+OWASP Foundation,"python, javascript, java, ZAP, Juice Shop","web, cloud, application security, cybersecurity, DevSecOps",Na
+openSUSE Project,"python, c/c++, go, ruby, reactjs javascript","AIML, operating system developer tools, containers kubernetes, Security Cryptography, systems management",Na
+OpenRefine,"javascript, java","data-wrangling, reconcilation, data-mining",Na
+Jenkins,"javascript, java, go, docker, kubernetes","developer tools, automation, continuous integration, continuous delivery, devops",Na
+"Unicode, Inc.","java, c++, rust, unicode","compilers, linguistics, languages, internationalization",Na
+CGAL Project,"c++, qt","geometry, mesh processing, computation geometry, geometry processing",Na
+Neutralinojs,"c, javascript, node.js, c++, typescript","desktop, framework, cross-platform, Application Development",Na
+Nightwatch.js,"javascript, selenium, node.js, typescript, WebDriver","unit testing, Functional Testing, End-To-End Testing, Component testing, Native mobile app testing",Na
+eunomia-bpf,"linux, llvm, ebpf, webassembly","cloud, OS, runtime",Na
+Robolectric,"android, java, jvm, asm","testing, mobile",Na
+OpenStreetMap,"javascript, java, c++","databases, web, routing, ui, geodata",Na
+CERN-HSF,"python, c/c++, data analysis, artificial intelligence, container orchestration","machine learning, big data, algorithmics, particle physics, Performance Optimisation",Na
+JabRef e.V.,"java, javafx, ai, bibtex","science, library, literature, latex, bibliography",Na
+Kotlin Foundation,"gradle, kotlin, jvm, Parsers & Compilers, Multiplatform","compilers, programming languages, software development, libraries, Programming & Build Tools",Na
+Haskell.org,"haskell, ghc","compilers, programming languages, functional programming, programming tools",Na
+PostgreSQL,"c, python, postgresql, javascript, go","web, database, ui, sql, Benchmark",Na
+JdeRobot,"python, ros, gazebo, opencv, tensorflow","education, artificial intelligence, robotics, computer vision, developer tools",Na
+Keploy,"c, golang, node, MERN, epbf","API Testing, No code platform, Dev Tool, Functional Testing, Mock and Stubs Generation",Na
+GNU Compiler Collection (GCC),"c/c++, gnu make, gnu autotools","compilers, developer tools, toolchain, openmp, link time optimization",Na
+Machine Learning for Science (ML4SCI),"python, machine learning, c++, data analysis, artificial intelligence","machine learning, science and medicine, algorithms, physics, astronomy",Na
+R project for statistical computing,"c, javascript, c++, r-project, fortran","visualization, machine learning, data science, graphics, statistics",Na
+The Julia Language,"machine learning, julia, data science, compilers, garbage-collection","math, machine learning, science, data science, graphs",Na
+ScummVM,"python, opengl, c++, assembly, php","games, game engines, software preservation, software archeology",Na
+Red Hen Lab,"python, machine learning, nlp, ai, data science","data science, ai, language, multimodal communication, gesture",Na
+The Palisadoes Foundation,"flutter, graphql, typescript, reactjs, MERN","web, api, database, ai, mobile",Na
+DatenLord,"rust, kubernetes, Distributed key-value store, Fault tolerant, Metadata management","cloud, open source, storage, Data Infrastructure",Na
+Open Climate Fix,"python, pytorch","Forecasting, Climate, renewables",Na
+FLARE,"python, ida-pro, Ghidra","emulation, disassembly, decompilation, malware-analysis, reverse-engineering",Na
+MuseScore,"c++, qt, qml, cmake","music, midi, musicxml, sheet music, music notation",Na
+OpenAstronomy,"c, python, julia","image processing, astronomy, solar physics, high energy astrophysics",Na
+TARDIS RT Collaboration,"python, numba, numpy, jupyter, pandas","visualization, big data, simulation, astrophysics",Na
+CloudCV,"python, django, docker, angularjs, aws","machine learning, artificial intelligence, computer vision, deep learning, AI/ML",Na
+MBDyn,"python, c++","robotics, scientific computing, multibody dynamics, aeroelasticity, Structural engineering",Na
+Postman,"javascript, api, openapi, AsyncAPI, JSON Schema","testing, api, automation, documentation, data",Na
+Open Robotics,"ros, gazebo, ignition, Open-RMF","robotics, simulation, fleet management",Na
+Open Transit Software Foundation,"android, java, swift, docker, ios","apps, Transit, travel, bus",Na
+Software and Computational Systems Lab at LMU Munich,"python, java","software verification, benchmarking, program analysis, formal methods, SAT & SMT solving",Na
+LAPPIS,"ruby on rails, airflow, performance, jupyter hub","web development, devops, innovation, Social participation, mentoring",Na
+CRIU,"c, python, linux, go","cloud, containers, Checkpoint/Restore",Na
+DeepChem,"python, numpy, pytorch, HuggingFace","artificial intelligence, chemistry, biology, materials science, Drug Discovery",Na
+gprMax,"python, cuda, openmp, mpi, opencl","science, engineering, geophysics, electromagnetics, ground penetrating radar",Na

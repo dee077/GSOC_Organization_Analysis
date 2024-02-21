@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 from scripts.write_in_csv import write_data_to_csv
 
-year=2023
+year=2024
 
 # Set up the Chrome WebDriver
 chrome_options = webdriver.ChromeOptions()
@@ -17,7 +17,7 @@ chrome_service = ChromeService(executable_path='chromedriver-win64/chromedriver.
 driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
 
 # GSoC ke official website ka URL
-url = f'https://summerofcode.withgoogle.com/archive/{year}/organizations'
+url = f'https://summerofcode.withgoogle.com/programs/2024/organizations'
 
 # Open the URL in the browser
 driver.get(url)
@@ -58,6 +58,7 @@ def extract_info_from_current_page():
         wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'section')))
         selected_students = len(driver.find_elements(By.CLASS_NAME, 'project-card-wrapper'))
         # Extracting technologies
+        selected_students='Na'
         technologies = driver.find_element(By.CLASS_NAME, 'tech__content').text.strip()
 
         # Extracting topics

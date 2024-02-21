@@ -1,28 +1,21 @@
 import pandas as pd
-import os
 
 # Replace these with the actual file names
 file_names = ['../data/2023.csv', '../data/2022.csv', '../data/2021.csv', '../data/2020.csv', '../data/2019.csv']
 
-# Create an empty DataFrame to store the filtered data
-filtered_data = pd.DataFrame(columns=['Organization', 'Technologies', 'Topics', 'Selected_Students', 'Source_File'])
+# Read data from each file into separate DataFrames
+data_frames = [pd.read_csv(file_name, encoding='latin-1') for file_name in file_names]
 
-# Read each CSV file, filter data, and append to the new DataFrame
-for file_name in file_names:
-    df = pd.read_csv(file_name, encoding='ISO-8859-1')
-    
-    # Apply filters (topics not containing "machine learning" or "artificial intelligence" and selected students >= 5)
-    mask = ~df['Topics'].str.contains('machine learning|artificial intelligence', case=False)
-    mask &= (df['Selected_Students'] >= 10)
-    
-    # Add the Source_File column
-    df['Source_File'] = os.path.basename(file_name)
-    
-    # Append filtered data to the new DataFrame
-    filtered_data = pd.concat([filtered_data, df[mask]], ignore_index=True)
+# Concatenate the DataFrames to get all unique organizations Organization
+all_organizations = pd.concat([df['Organization'] for df in data_frames]).unique()
 
-# Save the new DataFrame to a CSV file
-filtered_data.to_csv('../data/shortlisted.csv', index=False)
+# Read 2024 data
+data_2024 = pd.read_csv('../data/2024.csv', encoding='latin-1')
 
-# Print the filtered data
-print(filtered_data)
+# Filter 2024 data based on organizations not present in previous years
+filtered_data_2024 = data_2024[~data_2024['Organization'].isin(all_organizations)]
+
+# Write the filtered data to new_2024.csv
+filtered_data_2024.to_csv('../data/new_2024.csv', index=False)
+
+print("Filtered data has been written to new_2024.csv.")
